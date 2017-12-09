@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1492408379 source:g:\education\programs\opencv\segmentation\prewitt\main.cpp
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/highgui/highgui.hpp"
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+

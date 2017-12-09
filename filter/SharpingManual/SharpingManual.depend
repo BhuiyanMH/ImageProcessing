@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1489991128 source:g:\education\programs\opencv\filter\sharpingmanual\main.cpp
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/highgui/highgui.hpp"
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
